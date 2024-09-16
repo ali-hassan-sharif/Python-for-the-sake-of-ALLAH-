@@ -15,4 +15,4 @@ While this Repo equips you with a strong foundation, true programming mastery re
 
 ### Intellectual Property Notice
 
-This book and its contents are the intellectual property of youthlinkpakistan.com. All rights are reserved.
+This Repository and its contents are the intellectual property of youthlinkpakistan.com. All rights are reserved.
